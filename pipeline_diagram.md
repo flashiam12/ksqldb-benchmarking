@@ -20,6 +20,15 @@ graph TD
     style F fill:#e6f3ff,stroke:#000,stroke-width:1px,color:#000
 ```
 
+# Pipeline Documentation
+
+## Reference Documentation
+For detailed implementation of each pipeline step, refer to [queries.md](queries.md) which contains:
+- Complete table schemas and creation scripts
+- Stream configurations and transformations
+- Sample data insertions for testing
+- Detailed query examples with composite keys
+
 # Pipeline Explanation
 
 ## Flow Description:
